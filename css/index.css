@@ -1,0 +1,7 @@
+body{background: #F7F7F7;}
+/*nav*/
+.nav{height:35px;}
+.nav_left{width:190px;height:35px;float: left;}
+.nav_left_top{width:190px;height:35px;background: #373232;cursor: pointer;}
+.nav_left_top i{width:14px;height:12px;float:left;display:inline-block;margin:12px 0 0 13px;background: url(../img/index/nav1200_sprite.png) no-repeat 0 -101px;}
+.nav_left_top a span{color:#fff;font-weight: bold;font-size: 14px;margin-left:25px;line-height: 34px;float: left;}
